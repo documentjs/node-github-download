@@ -2,9 +2,7 @@
   "name": "github-download",
   "version": "0.3.0",
   "description": "Easily download Github repos without any external dependencies such as Git, Tar, Unzip, etc.",
-  "homepage": [
-    ""
-  ],
+  "homepage": "http://github.com/documentjs/node-github-download",
   "repository": {
     "type": "git",
     "url": "git@github.com:jprichardson/node-github-download.git"
@@ -25,8 +23,9 @@
     }
   ],
   "dependencies": {
-    "adm-zip": "~0.4.3",
-    "fs-extra": "^0.9.1",
+    "adm-zip": "~0.4.7",
+    "fs-extra": "^0.24.0",
+    "mv": "^2.1.1",
     "request": "~2.12.0",
     "vcsurl": "~0.1.0"
   },
