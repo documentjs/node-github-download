@@ -1,11 +1,11 @@
 {
-  "name": "github-download",
+  "name": "documentjs-github-download",
   "version": "0.3.0",
   "description": "Easily download Github repos without any external dependencies such as Git, Tar, Unzip, etc.",
   "homepage": "http://github.com/documentjs/node-github-download",
   "repository": {
     "type": "git",
-    "url": "git@github.com:jprichardson/node-github-download.git"
+    "url": "git@github.com:documentjs/node-github-download.git"
   },
   "keywords": [
     "github",
@@ -15,7 +15,7 @@
     "fetch",
     "git"
   ],
-  "author": "JP Richardson <jprichardson@gmail.com>",
+  "author": "JP Richardson <jprichardson@gmail.com> and Bitovi",
   "licenses": [
     {
       "type": "MIT",
